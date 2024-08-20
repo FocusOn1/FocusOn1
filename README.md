@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 我是FocusOn1，欢迎来到我的GitHub！
+ 在这里，我偶尔会放一些我的东西在仓库里，请自行查阅，欢迎互相学习！
 
 <!--
 **FocusOn1/FocusOn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
